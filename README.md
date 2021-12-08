@@ -29,6 +29,7 @@ Entender el funcionamiento y descripción de un circuito electrónico mediante e
 	Describir los componentes, describir el circuito y luego elegir el tipo de simulación
 
 2.	MARCO TEÓRICO
+
 2.1 Qué es NGSPICE?
 
 Ngspice (Next Generation Simulation Program with Integrated Circuits Emphasis ) es un programa para la simulación de circuitos electrónicos lineales y no lineales con propósito general.

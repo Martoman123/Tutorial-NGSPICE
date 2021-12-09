@@ -166,7 +166,12 @@ Finalmente, para poder ver todas las tensiones del circuito se debe poner el com
 
 •	Es recomendable dibujar el circuito antes de comenzar a codificar, para poder entender desde donde parte la corriente y sigue su trayectoria, también se deberá describir todo el circuito dentro del grafico incluyendo nodos, resistencias con sus respectivos valores, tierra de referencia, voltajes, corrientes y todo lo que sea necesario escribir en el programa.
 
-5.	Bibliografías y Referencias: 
+
+5. Video:
+https://www.youtube.com/watch?v=14r8h_bEIyw
+
+
+6.	Bibliografías y Referencias: 
 Automática EIE. (2020, 2 mayo). Introducción a SPICE con ngspice [Vídeo], Departamento de Automática de la Escuela de Ingeniería Eléctrica, Universidad de Costa Rica. YouTube. https://www.youtube.com/watch?v=wx6ysVJEjqQ
 
 Zerberros, Z. J. (s. f.). Introdución a NGSPICE. GitHub. Recuperado 1 de diciembre de 2021, de https://zerberros.github.io/blog/2017/11/17/introducion-a-ngspice.html

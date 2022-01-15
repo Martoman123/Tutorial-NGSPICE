@@ -1,5 +1,5 @@
-# Tutorial-NGSPICE
-Tutorial básico para aprender a usar NGSPICE
+# Diseño de un ejemplo de interfaz de control con thingsboard
+Ejemplo de interfaz de control  
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA
@@ -11,7 +11,7 @@ FUNDAMENTOS DE CIRCUITOS ELECTRICOS
 
 
 TEMA:
-DISEÑO DE CIRCUITOS MIXTOS Y TOMA DE MEDICIONES EMPLEANDO NGSPICE
+Diseño de un ejemplo de interfaz de control con https://thingsboard.io/
 
 MARTÍN AUGUSTO CORONEL MOREIRA
 

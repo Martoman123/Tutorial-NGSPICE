@@ -1,4 +1,4 @@
-# Tutorial-NGSPICE
+# Informe Thingsboard 
 Tutorial básico para aprender a usar NGSPICE
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
